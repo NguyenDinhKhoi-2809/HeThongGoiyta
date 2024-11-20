@@ -1,5 +1,5 @@
-// CHƯƠNG TRÌNH CHO PHÒNG BỆNH 2
-// Author: Nguyễn Đình Khôi - Engineering at Hshop.vn
+//CHƯƠNG TRÌNH CHO PHÒNG BỆNH 2
+//Author: Nguyễn Đình Khôi - Engineering at Hshop.vn
 
 #include <SPI.h>// Thêm thư viện SPI
 #include <nRF24L01.h>// Thêm thư viện NRF24L01
