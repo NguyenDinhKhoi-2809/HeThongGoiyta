@@ -1,4 +1,4 @@
-/// CHƯƠNG TRÌNH CHO PHÒNG BỆNH 1
+// CHƯƠNG TRÌNH CHO PHÒNG BỆNH 1
 // Author: Nguyễn Đình Khôi - Engineering at Hshop.vn
 
 #include <SPI.h>// Thêm thư viện SPI
