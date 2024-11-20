@@ -1,6 +1,8 @@
 # Hệ thống gọi y tá - bác sĩ 
 
-Tác giả: Nguyễn Đình Khôi
+Tác giả: Kỹ sư Nguyễn Đình Khôi.
+Khoa Điện - Điện tử Trường Đại học Công Nghệ Sài Gòn
+Working at Hshop.vn
 
 **Hệ thống gọi y tá - bác sĩ** là dự án sử dụng Vi điều khiển để tạo một hệ thống chuông gọi y tá, bác sĩ. Nhằm giúp cho bệnh nhân nhanh chóng nhận được sự trợ giúp kịp thời. Chỉ cần một thao tác bấm nút đơn giản, bệnh nhân có thể gọi ngay y tá - bác sĩ trực ca đến hỗ trợ tức thời.
 
@@ -10,7 +12,7 @@ Tác giả: Nguyễn Đình Khôi
 
 ## Phần cứng yêu cầu
 - Mạch VietUno Type B và Type C
-- Cáp USB type B và Type C
+- Cáp USB Type B và Type C
 - Module RF NRF24L01 
 - Nút nhấn MKE
 - Led đơn MKE
