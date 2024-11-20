@@ -1,10 +1,10 @@
-# Hệ thống gọi y tá - bác sĩ truyền thông qua sóng RF
+# Nurse and Doctor Call System
 
 Tác giả: Kỹ sư Nguyễn Đình Khôi.  
 Khoa Điện - Điện tử Trường Đại học Công Nghệ Sài Gòn.  
 Working at Hshop.vn
 
-**Hệ thống gọi y tá - bác sĩ truyền thông qua sóng RF** là dự án sử dụng Vi điều khiển để tạo một hệ thống chuông gọi y tá - bác sĩ từ xa dùng sóng vô tuyến (RF). Nhằm giúp cho bệnh nhân nhanh chóng nhận được sự trợ giúp kịp thời. Chỉ cần một thao tác bấm nút đơn giản, bệnh nhân có thể gọi ngay y tá - bác sĩ trực ca đến hỗ trợ tức thời.
+**Nurse and Doctor Call System** là dự án sử dụng Vi điều khiển để tạo một hệ thống chuông gọi y tá - bác sĩ từ xa dùng sóng vô tuyến (RF). Nhằm giúp cho bệnh nhân nhanh chóng nhận được sự trợ giúp kịp thời. Chỉ cần một thao tác bấm nút đơn giản, bệnh nhân có thể gọi ngay y tá - bác sĩ trực ca đến hỗ trợ tức thời.
 
 ## Tính cấp thiết của dự án
 
