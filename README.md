@@ -1,4 +1,4 @@
-# Hệ thống gọi y tá - bác sĩ 
+# Hệ thống gọi y tá - bác sĩ truyền thông qua sóng RF
 
 Tác giả: Kỹ sư Nguyễn Đình Khôi.  
 Khoa Điện - Điện tử Trường Đại học Công Nghệ Sài Gòn.  
